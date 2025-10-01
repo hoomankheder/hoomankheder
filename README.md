@@ -23,7 +23,4 @@ Embedded Electronics Engineer | MSc @ Polytechnic of Turin | Specializing in PCB
 ## 📫 Contact
 - 📧 Email: [hoomankhedersolh@gmail.com](mailto:hoomankhedersolh@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/hoomankheder](https://linkedin.com/in/hoomankheder)
-- 💼 Open to embedded engineering roles in Electronics Sectors!
-
----
-💼 Open to freelance gigs in Web Dev & AI. Shoot me a message!
+- 💼 Open to embedded engineering roles in Electronics Sectors! Shoot me a message!
